@@ -13,7 +13,7 @@ Personalized Solutions: Once your emotions are identified, EmoGenie provides per
 
 User-Friendly Interface: With a simple and intuitive interface, EmoGenie makes it easy for you to interact and receive support whenever you need it.
 
-How to Use:
+**How to Use:**
 
 Image Selection: Choose from a selection of images representing different emotions to help EmoGenie understand how you're feeling.
 
